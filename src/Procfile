@@ -1,0 +1,1 @@
+web: gunicorn bag_o_holding_backend.wsgi --log-file -
